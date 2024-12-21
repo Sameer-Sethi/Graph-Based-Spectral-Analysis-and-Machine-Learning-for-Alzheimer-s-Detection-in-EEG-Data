@@ -1,1 +1,2 @@
-# Graph-Based-Spectral-Analysis-and-Machine-Learning-for-Alzheimer-s-Detection-in-EEG-Data
+This paper explores using Graph Signal Processing (GSP) and the Graph Discrete Fourier Transform (GDFT) to analyze EEG recordings for Alzheimer's disease detection utilizing various machine learning (ML) and deep learning (DL) models. The OpenNeuro ds004504 dataset was used containing EEG data from 88 patients in .set format. Various traditional machine learning models including KNN Random Forest Gradient Boosting and SVM were applied alongside deep learning models like ANN and CNN. Among these ANN achieved the highest accuracy of 83%.
+Utilized a Technology Stack that integrates Python Machine Learning and Deep learning.
